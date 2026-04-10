@@ -1,1 +1,1 @@
-# Active-Directory-Guides
+My anki cards might not be helpful for understanding microsoft azure or active directory. These cards where made for me to remember and understand. What these cards are really for is to demostrate my understanding of microsoft azure and active directory.
